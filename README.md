@@ -1,4 +1,4 @@
-<h2>Hi everyone! I'm Raspeur 🖖</h2>
+<h2>Hi everyone! I'm Clément Gauché (#Raspeur) 🖖</h2>
 
 - 👋 I’m currently studying at **INSA Toulouse** in the *Innovative Smart Systems* specialty.  
 - 🔐 My ambition is to **specialize in cybersecurity**.  
@@ -28,8 +28,16 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat-square" alt="Python Badge">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat-square" alt="GNU Bash Badge">
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=fff&style=flat-square" alt="Java Badge">
   <img src="https://img.shields.io/badge/LaTeX-47A141?logo=latex&logoColor=fff&style=flat-square" alt="LaTeX Badge">
 </p>
+
+---
+
+<h3>🚀 My Current Projects :</h3>
+
+- 🧠 **Wireless intracranial sensor system for medical monitoring**  
+- 🏢 **Building sensor management and automation platform**
 
 ---
 
